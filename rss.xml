@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[#YTN]]></title>
         <description><![CDATA[#YTN]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ytn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:09:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 17:54:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ytn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43159326-a4ee-4406-a4ea-8956051f65dd.jpg">]]></description>
+            <link>https://thegrid.ai/ytn/51b1f407-c10d-4d18-bf15-217441c2db4f/index.html</link>
+            <guid isPermaLink="false">51b1f407-c10d-4d18-bf15-217441c2db4f</guid>
+            <pubDate>Wed, 04 May 2016 17:54:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a719b80-9c7f-4db6-8bb7-bef2a5972c3d.jpg">]]></description>
-            <link>undefinedwe-are-the-night/index.html</link>
+            <link>https://thegrid.ai/ytn/we-are-the-night/index.html</link>
             <guid isPermaLink="false">7ba3a3b9-7a84-4457-be59-cc39f4602e43</guid>
             <pubDate>Wed, 04 May 2016 17:09:46 GMT</pubDate>
         </item>
