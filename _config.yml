@@ -1,6 +1,6 @@
 name: '#YTN'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75
 typography_spectrum: 0.6831872486509383
 cta:
   domain: null
