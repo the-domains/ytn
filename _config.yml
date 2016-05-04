@@ -1,6 +1,6 @@
 name: '#YTN'
 favicon: null
-layout_spectrum: 0.5
+layout_spectrum: 0
 typography_spectrum: 0.6831872486509383
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#363437'
     - '#a09b98'
     - '#bb7600'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.0625
-  rhythmicContrast: 1
+  brandStrength: 0.5625
+  lightness: 0.0625
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
